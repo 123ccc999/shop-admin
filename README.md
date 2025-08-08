@@ -16,7 +16,7 @@
 `shop-admin`是一个商城后台管理系统的前端项目，基于Vue+Element实现，采用响应式布局方式。主要包含后台面板、商品管理、用户管理、订单管理、管理员管理、系统设置、分销模块、统计报表等功能。
 
 
-##项目展示：
+## 项目展示：
 <img width="1920" height="894" alt="image" src="https://github.com/user-attachments/assets/53c19884-ceac-4d24-b935-0c3c8d9c521b" />
 <img width="1916" height="951" alt="image" src="https://github.com/user-attachments/assets/5548be65-2988-48f8-9919-53c72d16e60e" />
 <img width="1920" height="708" alt="image" src="https://github.com/user-attachments/assets/ac8574a1-4d66-4e18-8ea3-9a8a9005aa8c" />
